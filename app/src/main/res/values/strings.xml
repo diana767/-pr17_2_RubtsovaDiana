@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practika17.2</string>
+    <string name="text1">Введите ваше имя.Будьте аккуратнее, изменить его уже не будет возможным</string>
+    <string name="name">Имя пользователя</string>
+</resources>
